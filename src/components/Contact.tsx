@@ -46,7 +46,7 @@ const Contact = () => {
       icon: Code,
       label: "LeetCode",
       value: "LeetCode Profile",
-      link: "https://leetcode.com/satheeshma"
+      link: "https://leetcode.com/u/SATHEESH_M_A/"
     },
     {
       icon: Linkedin,

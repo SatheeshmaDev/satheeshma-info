@@ -31,7 +31,7 @@ const Navigation = () => {
       <div className="container mx-auto px-6">
         <div className="flex items-center justify-between h-16">
           <a href="#" className="text-2xl font-bold">
-            <span className="text-primary">SATHEESH</span>MA
+            <span className="text-primary">SATHEESH</span> M A
           </a>
 
           {/* Desktop Navigation */}

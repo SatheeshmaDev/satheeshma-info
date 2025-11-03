@@ -58,11 +58,6 @@ const Hero = () => {
           {/* Subtitle with icons */}
           <div className="flex flex-wrap items-center justify-center gap-3 mb-8 text-2xl md:text-3xl lg:text-4xl font-semibold text-muted-foreground animate-fade-in">
             <div className="flex items-center gap-2 group">
-              <Brain className="w-6 h-6 md:w-8 md:h-8 text-primary group-hover:scale-110 transition-transform" />
-              <span>AI & ML Developer</span>
-            </div>
-            <span className="text-primary">|</span>
-            <div className="flex items-center gap-2 group">
               <Code2 className="w-6 h-6 md:w-8 md:h-8 text-secondary group-hover:scale-110 transition-transform" />
               <span>Web Developer</span>
             </div>

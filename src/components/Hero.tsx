@@ -64,7 +64,7 @@ const Hero = () => {
             <span className="text-primary">|</span>
             <div className="flex items-center gap-2 group">
               <Code2 className="w-6 h-6 md:w-8 md:h-8 text-secondary group-hover:scale-110 transition-transform" />
-              <span>Web Enthusiast</span>
+              <span>Web Developer</span>
             </div>
           </div>
           
